@@ -1,0 +1,56 @@
+.about {
+    padding: 40px 0;
+}
+
+.about video {
+    width: 900px;
+    margin: 40px 0;
+}
+
+@media (max-width: 1250px) {
+    .about video {
+        width: 700px;
+    }
+}
+
+@media (max-width: 860px) {
+    .about video {
+        width: 600px;
+    }
+}
+
+@media (max-width: 750px) {
+    .about video {
+        width: 520px;
+    }
+}
+
+@media (max-width: 660px) {
+    .about video {
+        width: 420px;
+    }
+}
+
+@media (max-width: 550px) {
+    .about video {
+        width: 350px;
+    }
+}
+
+@media (max-width: 460px) {
+    .about video {
+        width: 300px;
+    }
+}
+
+@media (max-width: 380px) {
+    .about video {
+        width: 260px;
+    }
+}
+
+@media (max-width: 340px) {
+    .about video {
+        width: 220px;
+    };
+}

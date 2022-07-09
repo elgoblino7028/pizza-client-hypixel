@@ -1,0 +1,11 @@
+.about h1 {
+  color: var(--primary-text);
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-bottom: 32px;
+}
+
+.about p {
+  margin-bottom: 24px;
+}
