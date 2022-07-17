@@ -31,7 +31,7 @@ export default function Home() {
                                 <span className={styles['middle-text']}>or enjoy it right away</span>
                             </div>
                             <div>
-                                <Link href="https://www.dropbox.com/s/c74hjezftebykqe/PizzaClient1.8.9-v2.3.0.jar?dl=1" className={styles['oilable only on pcdownload-btn']}><span className={styles["secondary-download"]}>Download</span></Link>
+                                <Link href="https://www.dropbox.com/s/9o1x4pq4tg8zoyj/Pizza%20Client%201.12.2%20v2.4.3.jar?dl=1" className={styles['oilable only on pcdownload-btn']}><span className={styles["secondary-download"]}>Download</span></Link>
                                 <span className={styles.disclaimer}>(available only on PC!)</span>
 
                             </div>
